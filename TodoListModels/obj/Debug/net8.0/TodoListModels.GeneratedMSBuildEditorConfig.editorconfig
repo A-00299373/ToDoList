@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoListModels
-build_property.ProjectDir = D:\To_do_List\TodoListModels\
+build_property.ProjectDir = C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

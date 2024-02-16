@@ -9,3 +9,15 @@ D:\To_do_List\TodoListModels\obj\Debug\net8.0\TodoListModels.dll
 D:\To_do_List\TodoListModels\obj\Debug\net8.0\refint\TodoListModels.dll
 D:\To_do_List\TodoListModels\obj\Debug\net8.0\TodoListModels.pdb
 D:\To_do_List\TodoListModels\obj\Debug\net8.0\ref\TodoListModels.dll
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\bin\Debug\net8.0\TodoListModels.deps.json
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\bin\Debug\net8.0\TodoListModels.dll
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\bin\Debug\net8.0\TodoListModels.pdb
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\TodoListModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\TodoListModels.AssemblyInfoInputs.cache
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\TodoListModels.AssemblyInfo.cs
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\TodoListModels.csproj.CoreCompileInputs.cache
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\TodoListModels.sourcelink.json
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\TodoListModels.dll
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\refint\TodoListModels.dll
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\TodoListModels.pdb
+C:\Users\Meet Lathiya\OneDrive - Cambrian College\backend frameworks\ToDoList\TodoListModels\obj\Debug\net8.0\ref\TodoListModels.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\To_do_List\\TodoListModels\\TodoListModels.csproj": {}
+    "C:\\Users\\Meet Lathiya\\OneDrive - Cambrian College\\backend frameworks\\ToDoList\\TodoListModels\\TodoListModels.csproj": {}
   },
   "projects": {
-    "D:\\To_do_List\\TodoListModels\\TodoListModels.csproj": {
+    "C:\\Users\\Meet Lathiya\\OneDrive - Cambrian College\\backend frameworks\\ToDoList\\TodoListModels\\TodoListModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\To_do_List\\TodoListModels\\TodoListModels.csproj",
+        "projectUniqueName": "C:\\Users\\Meet Lathiya\\OneDrive - Cambrian College\\backend frameworks\\ToDoList\\TodoListModels\\TodoListModels.csproj",
         "projectName": "TodoListModels",
-        "projectPath": "D:\\To_do_List\\TodoListModels\\TodoListModels.csproj",
+        "projectPath": "C:\\Users\\Meet Lathiya\\OneDrive - Cambrian College\\backend frameworks\\ToDoList\\TodoListModels\\TodoListModels.csproj",
         "packagesPath": "C:\\Users\\Meet Lathiya\\.nuget\\packages\\",
-        "outputPath": "D:\\To_do_List\\TodoListModels\\obj\\",
+        "outputPath": "C:\\Users\\Meet Lathiya\\OneDrive - Cambrian College\\backend frameworks\\ToDoList\\TodoListModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Meet Lathiya\\AppData\\Roaming\\NuGet\\NuGet.Config"
